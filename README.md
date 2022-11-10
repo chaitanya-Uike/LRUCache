@@ -1,2 +1,6 @@
 LRU Cache implementation in TypeScript.
-\nRun :  node run build
+
+TO USE: 
+  node run build
+
+
